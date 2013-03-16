@@ -1,4 +1,4 @@
-# Cross-OS App Development Platforms
+# Cross-OS Mobile App Development
 
 * [Appcelerator Titanium](http://appcelerator.com)
 * [Cordova](http://cordova.apache.org)/[Phonegap](http://phonegap.com)
