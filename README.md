@@ -7,6 +7,8 @@
 
 ## Appcelerator Titanium
 
+Website: [http://appcelerator.com](http://appcelerator.com)
+
 * Commercial
 * Supports iOS, Android, Windows Phone
 * Develop using Javascript
@@ -14,12 +16,15 @@
 
 ## Cordova/Phonegap
 
-* Open soure
+Website: [http://cordova.apache.com](http://cordova.apache.com) or [http://phonegap.com](http://phonegap.com)
+* Open source
 * Supports iOS, Android, Windows Phone (7 & 8), Windows 8, Blackberry, Symbian, Bada, Tizen, WebOS
 * Develop using HTML+CSS+Javascript
 * Various editors and IDEs, dependent on target plaform, e.g, Xcode, Eclipse, Visual Studio
 
 ## Corona
+
+Website: [http://coronalabs.com](http://coronalabs.com)
 
 * Commercial
 * Supports iOS, Android, Kindle Fire, Nook
@@ -27,6 +32,8 @@
 * Various IDEs and development tools
 
 ## Xamarin
+
+Website: [http://xamarin.com](http://xamarin.com)
 
 * Commercial
 * Supports iOS, Android, Mac OS
