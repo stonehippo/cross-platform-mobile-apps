@@ -1,4 +1,7 @@
-# Cross-OS Mobile App Development
+# Cross-platform Mobile App Development
+
+
+## A quick listing of platforms
 
 * [Appcelerator Titanium](http://appcelerator.com)
 * [Cordova](http://cordova.apache.org)/[Phonegap](http://phonegap.com)
@@ -7,8 +10,9 @@
 * [Xamarin](http://xamarin.com)
 
 
+## Frameworks and toolkits for cross-platform mobile apps
 
-## Appcelerator Titanium
+### Appcelerator Titanium
 
 Website: [http://appcelerator.com](http://appcelerator.com)
 
@@ -17,7 +21,7 @@ Website: [http://appcelerator.com](http://appcelerator.com)
 * Develop using Javascript
 * TitaniumStudio IDE 
 
-## Cordova/Phonegap
+### Cordova/Phonegap
 
 Website: [http://cordova.apache.com](http://cordova.apache.com) or [http://phonegap.com](http://phonegap.com)
 * Open source
@@ -25,7 +29,7 @@ Website: [http://cordova.apache.com](http://cordova.apache.com) or [http://phone
 * Develop using HTML+CSS+Javascript
 * Various editors and IDEs, dependent on target plaform, e.g, Xcode, Eclipse, Visual Studio
 
-## Corona
+### Corona
 
 Website: [http://coronalabs.com](http://coronalabs.com)
 
@@ -34,7 +38,7 @@ Website: [http://coronalabs.com](http://coronalabs.com)
 * Develop using Lua
 * Various IDEs and development tools
 
-## RhoMobile
+### RhoMobile
 
 Website: [http://rhomobile.com](http://rhomobile.com)
 
@@ -43,7 +47,7 @@ Website: [http://rhomobile.com](http://rhomobile.com)
 * Develop using HTML and Ruby
 * RhoStudio IDE
 
-## Xamarin
+### Xamarin
 
 Website: [http://xamarin.com](http://xamarin.com)
 
