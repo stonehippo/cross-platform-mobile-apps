@@ -7,6 +7,7 @@
 * [Cordova](http://cordova.apache.org)/[Phonegap](http://phonegap.com)
 * [Corona](http://coronalabs.com)
 * [RhoMobile](http://rhomobile.com)
+* [Unity](http://unity3d.com)
 * [Xamarin](http://xamarin.com)
 
 
@@ -46,6 +47,17 @@ Website: [http://rhomobile.com](http://rhomobile.com)
 * Supports iOS, Android, Windows Mobile, Windows Phone 7, Blackberry
 * Develop using HTML and Ruby
 * RhoStudio IDE
+
+### Unity
+
+Website: [http://unity3d.com](http://unity3d.com)
+
+* Commercial
+* Support iOS, Android, plus web and desktop platforms
+* Develop using Javascript, C#, or Boo
+* Unity Editor
+
+Unity is a cross-platform game engine, which makes it different from most of the other frameworks here. It's more focused on building games, and less useful for general purpose apps.
 
 ### Xamarin
 
