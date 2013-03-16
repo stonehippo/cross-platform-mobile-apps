@@ -3,7 +3,10 @@
 * [Appcelerator Titanium](http://appcelerator.com)
 * [Cordova](http://cordova.apache.org)/[Phonegap](http://phonegap.com)
 * [Corona](http://coronalabs.com)
+* [RhoMobile](http://rhomobile.com)
 * [Xamarin](http://xamarin.com)
+
+
 
 ## Appcelerator Titanium
 
@@ -30,6 +33,15 @@ Website: [http://coronalabs.com](http://coronalabs.com)
 * Supports iOS, Android, Kindle Fire, Nook
 * Develop using Lua
 * Various IDEs and development tools
+
+## RhoMobile
+
+Website: [http://rhomobile.com](http://rhomobile.com)
+
+* Open source
+* Supports iOS, Android, Windows Mobile, Windows Phone 7, Blackberry
+* Develop using HTML and Ruby
+* RhoStudio IDE
 
 ## Xamarin
 
