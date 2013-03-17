@@ -8,6 +8,7 @@
 * [Appcelerator Titanium](http://appcelerator.com)
 * [Corona](http://coronalabs.com)
 * [RhoMobile](http://rhomobile.com)
+* [Trigger.io](http://trigger.io)
 * [Unity](http://unity3d.com)
 * [Xamarin](http://xamarin.com)
 
@@ -71,6 +72,17 @@ Website: [http://rhomobile.com](http://rhomobile.com)
 * Supports iOS, Android, Windows Mobile, Windows Phone 7, Blackberry
 * Develop using HTML and Ruby
 * RhoStudio IDE
+
+### Trigger.io
+
+Website: [http://trigger.io](http://trigger.io)
+
+* Commercial
+* Supports iOS, Android (plus web apps)
+* Develop using HTML+CSS+Javascript
+* Any editor or IDE, plus Trigger Forge command line tools
+
+Trigger.io uses an exclusively cloud-based build process.
 
 ### Unity
 
