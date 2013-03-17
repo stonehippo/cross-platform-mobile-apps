@@ -1,5 +1,7 @@
 # Cross-platform Mobile App Development
 
+A survey of cross platform toolkits and frameworks for building mobile apps.
+
 ## A quick listing of platforms
 
 * [Adobe AIR](https://www.adobe.com/products/air/)
