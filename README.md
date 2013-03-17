@@ -23,6 +23,8 @@ Website: [http://https://www.adobe.com/products/air/](https://www.adobe.com/prod
 * Develop using ActionScript & MXML (HTML-based Air apps cannot deploy to mobile)
 * AIR SDK + an editor, Adobe Flash Builder, Adobe Flash Professional or Adobe Dreamweaver
 
+See also: Apache Flex.
+
 ### Apache Cordova/Phonegap
 
 Website: [http://cordova.apache.com](http://cordova.apache.com) or [http://phonegap.com](http://phonegap.com)
@@ -89,3 +91,6 @@ Website: [http://xamarin.com](http://xamarin.com)
 * Supports iOS, Android, Mac OS
 * Develop using C#
 * Xamarin Studio IDS (Visual Studio support with Business or Enterprise subscription)
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Cross-platform Mobile App Development</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/stonehippo/cross-platform-mobile-apps" property="cc:attributionName" rel="cc:attributionURL">George White</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
