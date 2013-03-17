@@ -92,5 +92,6 @@ Website: [http://xamarin.com](http://xamarin.com)
 * Develop using C#
 * Xamarin Studio IDS (Visual Studio support with Business or Enterprise subscription)
 
+## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Cross-platform Mobile App Development</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/stonehippo/cross-platform-mobile-apps" property="cc:attributionName" rel="cc:attributionURL">George White</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
