@@ -1,6 +1,6 @@
-![Cross Platform Mobile Frameworks](cross-platform_mobile_frameworks.jpg)
-
 # Cross-platform Mobile App Development
+
+![Cross Platform Mobile Frameworks](cross-platform_mobile_frameworks.jpg)
 
 A survey of cross platform toolkits and frameworks for building mobile apps.
 
